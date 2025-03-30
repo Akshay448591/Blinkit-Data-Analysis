@@ -53,7 +53,7 @@ To Conduct Comprehensive of blinkits sales performance,customer satisfaction and
   chart type:Funnel type.
 
 ##Blinkit Dashboard
-https://github.com/Akshay448591/Blinkit-Data-Analysis/blob/main/Screenshot%202025-03-30%20181613.png
+![Screenshot 2025-03-30 181613](https://github.com/user-attachments/assets/70d4f706-20b0-4b8f-9123-d7f1d0535a34)
 
 
 
